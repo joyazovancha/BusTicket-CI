@@ -1,0 +1,12 @@
+**Log on to codeastro.com for more projects!**
+
+**Database Name: busticketci**
+
+**Admin Login Details** 
+
+Username: owner
+Password: codeastro.com
+
+Username: admin
+Password: codeastro.com
+
